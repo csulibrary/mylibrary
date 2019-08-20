@@ -16,8 +16,8 @@ body{
   position: relative;
   left:50%;
   transform: translateX(-50%);
-  width: 60%;
-  height: 29%;
+  width: 200px;
+  height: 200px;
 }
 #content p{
   font-family: 'Roboto', sans-serif;
